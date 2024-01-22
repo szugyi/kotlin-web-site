@@ -1,11 +1,10 @@
-[//]: # (title: Kotlin for data science)
+[//]: # (title: Kotlin for data analysis)
 
 From building data pipelines to productionizing machine learning models, Kotlin can be a great choice for 
 working with data:
 * Kotlin is concise, readable, and easy to learn.
 * Static typing and null safety help create reliable, maintainable code that is easy to troubleshoot. 
-* Being a JVM language, Kotlin gives you great performance and an ability to leverage an entire ecosystem 
-of tried and true Java libraries. 
+* Kotlin has 100% interoperability with Java, providing excellent performance and the ability to leverage the entire ecosystem of tried and true Java libraries.
 
 ## Interactive editors
 
@@ -23,6 +22,8 @@ cells and harnesses the powerful Kotlin IDE support to offer real-time code insi
 for working with Kotlin notebooks. Be sure to check out our [blog post](https://blog.jetbrains.com/kotlin/2023/07/introducing-kotlin-notebook/) about it.
 
 ![Kotlin Notebook](kotlin-notebook.png){width=800}
+
+![Get started with Kotlin Notebook](multiplatform-create-project-button.png)
 
 ### Kotlin Notebooks in Datalore
 
