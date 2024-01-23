@@ -156,7 +156,9 @@
     </toc-element>
 
     <toc-element toc-title="Data Analysis">
-        <toc-element href=""/>
+        <toc-element id="get-started-with-jvm-gradle-project.md" title="Get started with Kotlin Notebooks"/>
+        <toc-element id="get-started-with-jvm-gradle-project.md" title="Work with data sources (csv, JSON)"/>
+        <toc-element id="get-started-with-jvm-gradle-project.md" title="Visualize data with Kandy"/>
     </toc-element>
 
     <toc-element toc-title="Platforms">
