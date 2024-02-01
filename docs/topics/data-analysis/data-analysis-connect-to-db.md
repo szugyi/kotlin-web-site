@@ -1,4 +1,4 @@
-[//]: # (title: Connect and retrive data from data bases)
+[//]: # (title: Connect and retrive data from databases)
 
 Simple guide how to start working data sources with Kotlin Notebooks.
 
