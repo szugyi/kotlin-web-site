@@ -156,9 +156,11 @@
     </toc-element>
 
     <toc-element toc-title="Data Analysis">
-        <toc-element href="https://kotlinlang.org/lp/multiplatform" toc-title="Get started with Kotlin Notebooks"/>
-        <toc-element href="https://kotlinlang.org/docs/home.html" toc-title="Work with data sources (csv, JSON)"/>
-        <toc-element href="https://kotlinlang.org/docs/data-science-overview.html" toc-title="Visualize data with Kandy"/>
+        <toc-element id="get-started-with-kotlin-notebooks.md"/>
+        <toc-element id="data-analysis-work-with-data-sources.md" toc-title="Work with data sources"/>
+        <toc-element id="data-analysis-visualization.md" toc-title="Data visualization in Kotlin Notebooks"/>
+        <toc-element id="data-science-libraries.md" toc-title="Supported libraries"/>
+        <toc-element id="data-analysis-notebooks-output-formats.md" title="Outputs in Kotlin Notebooks"/>
     </toc-element>
 
     <toc-element toc-title="Platforms">

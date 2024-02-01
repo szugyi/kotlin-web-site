@@ -131,7 +131,7 @@ working with data.
 
 1. **Get started with your first Kotlin Notebook:**
 
-   * Link to the Get started with Kotlin notebook.
+   * [Get started with Kotlin notebooks](get-started-with-kotlin-notebooks.md).
 
 2. **Use Kotlin libraries for data manipulation and visualization:**
 
