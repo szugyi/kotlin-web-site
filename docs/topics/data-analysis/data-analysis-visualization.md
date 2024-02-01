@@ -1,5 +1,7 @@
 [//]: # (title: Data visualization in Kotlin Notebooks with Kandy)
 
+Here will be a data visualization overview.
+
 Maybe extended version of https://kotlin.github.io/kandy/kandy-in-kotlin-notebook.html ?
 
 ## Before you start
@@ -9,6 +11,8 @@ Maybe extended version of https://kotlin.github.io/kandy/kandy-in-kotlin-noteboo
 * Add a dependency to the Kandy library (?)
 
 ## Create a line chart
+
+Some basic examples?
 
 ## Create a bar chart
 
