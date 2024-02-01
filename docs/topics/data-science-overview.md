@@ -21,7 +21,7 @@ colleagues, or build up your data science and machine learning skills.
 ### Kotlin Notebook
 
 The [Kotlin Notebook](https://plugins.jetbrains.com/plugin/16340-kotlin-notebook) is a plugin for IntelliJ IDEA that
-allows you to create notebooks in Kotlin. It leverages the [Kotlin kernel](#jupyter-kotlin-kernel) for executing the
+allows you to create notebooks in Kotlin. It leverages the [Kotlin kernel](#jupyter-notebooks-with-kotlin-kernel) for executing the
 cells and harnesses the powerful Kotlin IDE support to offer real-time code insights. Kotlin Notebook is the preferred method
 for working with Kotlin notebooks.
 

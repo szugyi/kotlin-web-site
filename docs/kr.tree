@@ -155,7 +155,7 @@
         </toc-element>
     </toc-element>
 
-    <toc-element toc-title="Data Analysis">
+    <toc-element toc-title="Data analysis">
         <toc-element id="get-started-with-kotlin-notebooks.md"/>
         <toc-element id="data-analysis-work-with-data-sources.md" toc-title="Work with data sources"/>
         <toc-element id="data-analysis-visualization.md" toc-title="Data visualization in Kotlin Notebooks"/>
